@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/PURE-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    </td>
    <td>
-     <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" />
+     <img src="http://img.shields.io/static/v1?label=STATUS&message=Developing&color=GREEN&style=for-the-badge" />
    </td>
  
   </tr>-
