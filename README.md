@@ -24,7 +24,7 @@
 - 💞️ I'm looking to collaborate with companies on front-end development.
 </p>
 
-<p align="center"><img src="cobrinha.gif" width="100%" width="500px;" height="250px"></p>
+<p align="center"><img src="snake.gif" width="100%" width="500px;" height="250px"></p>
 
 
 
