@@ -1,4 +1,4 @@
-<h1><p align="center">👋 Hi, I’m @kalendola, Front-end and Pure Javascript and SQL.</p></h1>
+<h1><p align="center">👋 Hi, I’m @kalendola, Front-end Javascript and SQL.</p></h1>
 <table align="center">
 
  <tr>
