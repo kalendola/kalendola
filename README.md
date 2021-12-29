@@ -17,7 +17,7 @@
   </table>
 <p align="center">
 👋 Hi, I’m @kalendola
-- 👀 Estou ineressado em desenvolvimento front-end
+- 👀 Estou interessado em desenvolvimento front-end
 - 🌱 Atualmente estou aprendendo SQL e melhorando o javascript.
 - 💞️ Estou procurando colaborar com empresas no desenvolvimento de front-end.
 </p>
