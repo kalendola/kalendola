@@ -1,6 +1,5 @@
-<h1><p align="center">👋 Olá, sou @kalendola. Javascript e SQL de front-end</p></h1>
+<h1><p align="center">👋 Olá, sou @kalendola. Javascript e SQL e front-end</p></h1>
 <table align="center">
-
  <tr>
    <td>
       <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -14,8 +13,7 @@
    <td>
      <img src="http://img.shields.io/static/v1?label=STATUS&message=Developing&color=GREEN&style=for-the-badge" />
    </td>
- 
-  </tr>-
+  </tr>
   </table>
 <p align="center">
 👋 Hi, I’m @kalendola
