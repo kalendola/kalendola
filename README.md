@@ -1,4 +1,4 @@
-<h1><p align="center">👋 Hi, I’m @kalendola, Front-end Javascript and SQL.</p></h1>
+<h1><p align="center">👋 Olá, sou @kalendola. Javascript e SQL de front-end</p></h1>
 <table align="center">
 
  <tr>
@@ -19,9 +19,9 @@
   </table>
 <p align="center">
 👋 Hi, I’m @kalendola
-- 👀 I’m interested in designer and front-end development
-- 🌱 I'm currently learning SQL improving javascript.
-- 💞️ I'm looking to collaborate with companies on front-end development.
+- 👀 Estou ineressado em desenvolvimento front-end
+- 🌱 Atualmente estou aprendendo SQL e melhorando o javascript.
+- 💞️ Estou procurando colaborar com empresas no desenvolvimento de front-end.
 </p>
 
 <p align="center"><img src="snake.gif" width="500px;" height="250px"></p>
