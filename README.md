@@ -1,4 +1,7 @@
-<h1><p align="center">👋 Olá, sou @kalendola. Javascript e SQL e front-end</p></h1>
+<h1 align: center>
+ <p align="center">👋 Olá, sou @kalendola. Javascript e SQL e front-end</p><br>
+</h1>
+
 
 <table align="center">
  <tr>
@@ -16,13 +19,24 @@
    </td>
   </tr>
   </table>
+  <table align="center">
+ <tr>
+  <td>
+ <a href="https://twitter.com/kalendola_kld">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " />
+ </a>
+   </td>
+  </tr>
+ </table>
 <p align="center">
 👋 Hi, I’m @kalendola
 - 👀 Estou interessado em desenvolvimento front-end
 - 🌱 Atualmente estou aprendendo SQL e melhorando o javascript.
 - 💞️ Estou procurando colaborar com empresas no desenvolvimento de front-end.
 </p>
+
 <p align="center"><img src="snake.gif" width="500px;" height="250px"></p>
+
 
 
 
