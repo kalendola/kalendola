@@ -1,4 +1,5 @@
 <h1><p align="center">👋 Olá, sou @kalendola. Javascript e SQL e front-end</p></h1>
+
 <table align="center">
  <tr>
    <td>
@@ -21,6 +22,7 @@
 - 🌱 Atualmente estou aprendendo SQL e melhorando o javascript.
 - 💞️ Estou procurando colaborar com empresas no desenvolvimento de front-end.
 </p>
+<div align="center">Por favor preciso de ajuda para comprar um computador novo, sou bolsista do enem e não tenho condições de comprar um<br /><a href="https:/vaka.me/2600148">Ajude um bolsista a se formar</a></div>
 
 <p align="center"><img src="snake.gif" width="500px;" height="250px"></p>
 
